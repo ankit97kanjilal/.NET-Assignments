@@ -1,0 +1,7 @@
+F:\ITC_Projects_2021\ConsoleApp1\GlobalAssemblyLib\bin\Debug\GlobalAssemblyLib.dll
+F:\ITC_Projects_2021\ConsoleApp1\GlobalAssemblyLib\bin\Debug\GlobalAssemblyLib.pdb
+F:\ITC_Projects_2021\ConsoleApp1\GlobalAssemblyLib\obj\Debug\GlobalAssemblyLib.csproj.CoreCompileInputs.cache
+F:\ITC_Projects_2021\ConsoleApp1\GlobalAssemblyLib\obj\Debug\GlobalAssemblyLib.dll
+F:\ITC_Projects_2021\ConsoleApp1\GlobalAssemblyLib\obj\Debug\GlobalAssemblyLib.pdb
+F:\ITC_Projects_2021\ConsoleApp1\GlobalAssemblyLib\obj\Debug\GlobalAssemblyLib.csproj.CopyComplete
+F:\ITC_Projects_2021\ConsoleApp1\GlobalAssemblyLib\obj\Debug\GlobalAssemblyLib.csprojAssemblyReference.cache

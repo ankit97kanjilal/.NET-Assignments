@@ -1,0 +1,6 @@
+F:\ITC_Projects_2021\ConsoleApp1\Structure\bin\Debug\Structure.exe.config
+F:\ITC_Projects_2021\ConsoleApp1\Structure\bin\Debug\Structure.exe
+F:\ITC_Projects_2021\ConsoleApp1\Structure\bin\Debug\Structure.pdb
+F:\ITC_Projects_2021\ConsoleApp1\Structure\obj\Debug\Structure.csproj.CoreCompileInputs.cache
+F:\ITC_Projects_2021\ConsoleApp1\Structure\obj\Debug\Structure.exe
+F:\ITC_Projects_2021\ConsoleApp1\Structure\obj\Debug\Structure.pdb

@@ -1,0 +1,6 @@
+F:\ITC_Projects_2021\ConsoleApp1\Percentage\bin\Debug\Percentage.exe.config
+F:\ITC_Projects_2021\ConsoleApp1\Percentage\bin\Debug\Percentage.exe
+F:\ITC_Projects_2021\ConsoleApp1\Percentage\bin\Debug\Percentage.pdb
+F:\ITC_Projects_2021\ConsoleApp1\Percentage\obj\Debug\Percentage.csproj.CoreCompileInputs.cache
+F:\ITC_Projects_2021\ConsoleApp1\Percentage\obj\Debug\Percentage.exe
+F:\ITC_Projects_2021\ConsoleApp1\Percentage\obj\Debug\Percentage.pdb

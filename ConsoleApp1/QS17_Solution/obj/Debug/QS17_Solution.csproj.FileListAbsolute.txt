@@ -1,0 +1,6 @@
+F:\ITC_Projects_2021\ConsoleApp1\QS17_Solution\obj\Debug\QS17_Solution.csproj.CoreCompileInputs.cache
+F:\ITC_Projects_2021\ConsoleApp1\QS17_Solution\bin\Debug\QS17_Solution.exe.config
+F:\ITC_Projects_2021\ConsoleApp1\QS17_Solution\bin\Debug\QS17_Solution.exe
+F:\ITC_Projects_2021\ConsoleApp1\QS17_Solution\bin\Debug\QS17_Solution.pdb
+F:\ITC_Projects_2021\ConsoleApp1\QS17_Solution\obj\Debug\QS17_Solution.exe
+F:\ITC_Projects_2021\ConsoleApp1\QS17_Solution\obj\Debug\QS17_Solution.pdb

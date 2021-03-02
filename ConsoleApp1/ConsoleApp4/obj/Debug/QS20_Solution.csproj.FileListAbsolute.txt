@@ -1,0 +1,6 @@
+F:\ITC_Projects_2021\ConsoleApp1\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+F:\ITC_Projects_2021\ConsoleApp1\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+F:\ITC_Projects_2021\ConsoleApp1\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+F:\ITC_Projects_2021\ConsoleApp1\ConsoleApp4\obj\Debug\QS20_Solution.csproj.CoreCompileInputs.cache
+F:\ITC_Projects_2021\ConsoleApp1\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+F:\ITC_Projects_2021\ConsoleApp1\ConsoleApp4\obj\Debug\ConsoleApp4.pdb

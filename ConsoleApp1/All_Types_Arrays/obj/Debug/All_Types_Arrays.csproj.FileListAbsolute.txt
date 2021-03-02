@@ -1,0 +1,6 @@
+F:\ITC_Projects_2021\ConsoleApp1\All_Types_Arrays\bin\Debug\All_Types_Arrays.exe.config
+F:\ITC_Projects_2021\ConsoleApp1\All_Types_Arrays\bin\Debug\All_Types_Arrays.exe
+F:\ITC_Projects_2021\ConsoleApp1\All_Types_Arrays\bin\Debug\All_Types_Arrays.pdb
+F:\ITC_Projects_2021\ConsoleApp1\All_Types_Arrays\obj\Debug\All_Types_Arrays.csproj.CoreCompileInputs.cache
+F:\ITC_Projects_2021\ConsoleApp1\All_Types_Arrays\obj\Debug\All_Types_Arrays.exe
+F:\ITC_Projects_2021\ConsoleApp1\All_Types_Arrays\obj\Debug\All_Types_Arrays.pdb

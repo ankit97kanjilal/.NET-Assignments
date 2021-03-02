@@ -1,0 +1,7 @@
+F:\ITC_Projects_2021\ConsoleApp1\QS12_Solve\bin\Debug\QS12_Solve.exe.config
+F:\ITC_Projects_2021\ConsoleApp1\QS12_Solve\bin\Debug\QS12_Solve.exe
+F:\ITC_Projects_2021\ConsoleApp1\QS12_Solve\bin\Debug\QS12_Solve.pdb
+F:\ITC_Projects_2021\ConsoleApp1\QS12_Solve\obj\Debug\QS12_Solve.csprojAssemblyReference.cache
+F:\ITC_Projects_2021\ConsoleApp1\QS12_Solve\obj\Debug\QS12_Solve.csproj.CoreCompileInputs.cache
+F:\ITC_Projects_2021\ConsoleApp1\QS12_Solve\obj\Debug\QS12_Solve.exe
+F:\ITC_Projects_2021\ConsoleApp1\QS12_Solve\obj\Debug\QS12_Solve.pdb

@@ -1,0 +1,6 @@
+F:\ITC_Projects_2021\ConsoleApp1\Day3Static\bin\Debug\Day3Static.exe.config
+F:\ITC_Projects_2021\ConsoleApp1\Day3Static\bin\Debug\Day3Static.exe
+F:\ITC_Projects_2021\ConsoleApp1\Day3Static\bin\Debug\Day3Static.pdb
+F:\ITC_Projects_2021\ConsoleApp1\Day3Static\obj\Debug\Day3Static.csproj.CoreCompileInputs.cache
+F:\ITC_Projects_2021\ConsoleApp1\Day3Static\obj\Debug\Day3Static.exe
+F:\ITC_Projects_2021\ConsoleApp1\Day3Static\obj\Debug\Day3Static.pdb

@@ -1,0 +1,10 @@
+F:\ITC_Projects_2021\ConsoleApp1\Employee\bin\Debug\Employee.exe.config
+F:\ITC_Projects_2021\ConsoleApp1\Employee\bin\Debug\Employee.exe
+F:\ITC_Projects_2021\ConsoleApp1\Employee\bin\Debug\Employee.pdb
+F:\ITC_Projects_2021\ConsoleApp1\Employee\bin\Debug\EmpLib.dll
+F:\ITC_Projects_2021\ConsoleApp1\Employee\bin\Debug\EmpLib.pdb
+F:\ITC_Projects_2021\ConsoleApp1\Employee\obj\Debug\Employee.csprojAssemblyReference.cache
+F:\ITC_Projects_2021\ConsoleApp1\Employee\obj\Debug\Employee.csproj.CoreCompileInputs.cache
+F:\ITC_Projects_2021\ConsoleApp1\Employee\obj\Debug\Employee.csproj.CopyComplete
+F:\ITC_Projects_2021\ConsoleApp1\Employee\obj\Debug\Employee.exe
+F:\ITC_Projects_2021\ConsoleApp1\Employee\obj\Debug\Employee.pdb

@@ -1,0 +1,5 @@
+F:\ITC_Projects_2021\ConsoleApp1\EmpLib\bin\Debug\EmpLib.dll
+F:\ITC_Projects_2021\ConsoleApp1\EmpLib\bin\Debug\EmpLib.pdb
+F:\ITC_Projects_2021\ConsoleApp1\EmpLib\obj\Debug\EmpLib.csproj.CoreCompileInputs.cache
+F:\ITC_Projects_2021\ConsoleApp1\EmpLib\obj\Debug\EmpLib.dll
+F:\ITC_Projects_2021\ConsoleApp1\EmpLib\obj\Debug\EmpLib.pdb

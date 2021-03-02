@@ -1,0 +1,6 @@
+F:\ITC_Projects_2021\ConsoleApp1\Fibonacci\bin\Debug\Fibonacci.exe.config
+F:\ITC_Projects_2021\ConsoleApp1\Fibonacci\bin\Debug\Fibonacci.exe
+F:\ITC_Projects_2021\ConsoleApp1\Fibonacci\bin\Debug\Fibonacci.pdb
+F:\ITC_Projects_2021\ConsoleApp1\Fibonacci\obj\Debug\Fibonacci.csproj.CoreCompileInputs.cache
+F:\ITC_Projects_2021\ConsoleApp1\Fibonacci\obj\Debug\Fibonacci.exe
+F:\ITC_Projects_2021\ConsoleApp1\Fibonacci\obj\Debug\Fibonacci.pdb

@@ -1,0 +1,6 @@
+F:\ITC_Projects_2021\ConsoleApp1\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+F:\ITC_Projects_2021\ConsoleApp1\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+F:\ITC_Projects_2021\ConsoleApp1\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+F:\ITC_Projects_2021\ConsoleApp1\ConsoleApp3\obj\Debug\Enum.csproj.CoreCompileInputs.cache
+F:\ITC_Projects_2021\ConsoleApp1\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+F:\ITC_Projects_2021\ConsoleApp1\ConsoleApp3\obj\Debug\ConsoleApp3.pdb

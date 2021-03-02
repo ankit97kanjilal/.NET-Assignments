@@ -1,0 +1,6 @@
+F:\ITC_Projects_2021\ConsoleApp1\Assignment2_QS_4.4\bin\Debug\Assignment2_QS_4.4.exe.config
+F:\ITC_Projects_2021\ConsoleApp1\Assignment2_QS_4.4\bin\Debug\Assignment2_QS_4.4.exe
+F:\ITC_Projects_2021\ConsoleApp1\Assignment2_QS_4.4\bin\Debug\Assignment2_QS_4.4.pdb
+F:\ITC_Projects_2021\ConsoleApp1\Assignment2_QS_4.4\obj\Debug\Assignment2_QS_4.4.csproj.CoreCompileInputs.cache
+F:\ITC_Projects_2021\ConsoleApp1\Assignment2_QS_4.4\obj\Debug\Assignment2_QS_4.4.exe
+F:\ITC_Projects_2021\ConsoleApp1\Assignment2_QS_4.4\obj\Debug\Assignment2_QS_4.4.pdb

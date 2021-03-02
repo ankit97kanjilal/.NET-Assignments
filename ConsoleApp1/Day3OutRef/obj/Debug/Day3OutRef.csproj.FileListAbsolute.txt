@@ -1,0 +1,6 @@
+F:\ITC_Projects_2021\ConsoleApp1\Day3OutRef\bin\Debug\Day3OutRef.exe.config
+F:\ITC_Projects_2021\ConsoleApp1\Day3OutRef\bin\Debug\Day3OutRef.exe
+F:\ITC_Projects_2021\ConsoleApp1\Day3OutRef\bin\Debug\Day3OutRef.pdb
+F:\ITC_Projects_2021\ConsoleApp1\Day3OutRef\obj\Debug\Day3OutRef.csproj.CoreCompileInputs.cache
+F:\ITC_Projects_2021\ConsoleApp1\Day3OutRef\obj\Debug\Day3OutRef.exe
+F:\ITC_Projects_2021\ConsoleApp1\Day3OutRef\obj\Debug\Day3OutRef.pdb

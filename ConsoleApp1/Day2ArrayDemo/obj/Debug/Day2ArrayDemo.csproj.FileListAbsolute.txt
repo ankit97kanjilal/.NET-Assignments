@@ -1,0 +1,7 @@
+F:\ITC_Projects_2021\ConsoleApp1\Day2ArrayDemo\bin\Debug\Day2ArrayDemo.exe.config
+F:\ITC_Projects_2021\ConsoleApp1\Day2ArrayDemo\bin\Debug\Day2ArrayDemo.exe
+F:\ITC_Projects_2021\ConsoleApp1\Day2ArrayDemo\bin\Debug\Day2ArrayDemo.pdb
+F:\ITC_Projects_2021\ConsoleApp1\Day2ArrayDemo\obj\Debug\Day2ArrayDemo.csprojAssemblyReference.cache
+F:\ITC_Projects_2021\ConsoleApp1\Day2ArrayDemo\obj\Debug\Day2ArrayDemo.csproj.CoreCompileInputs.cache
+F:\ITC_Projects_2021\ConsoleApp1\Day2ArrayDemo\obj\Debug\Day2ArrayDemo.exe
+F:\ITC_Projects_2021\ConsoleApp1\Day2ArrayDemo\obj\Debug\Day2ArrayDemo.pdb

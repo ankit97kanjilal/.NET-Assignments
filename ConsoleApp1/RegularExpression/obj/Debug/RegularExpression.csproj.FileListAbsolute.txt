@@ -1,0 +1,7 @@
+F:\ITC_Projects_2021\ConsoleApp1\RegularExpression\bin\Debug\RegularExpression.exe.config
+F:\ITC_Projects_2021\ConsoleApp1\RegularExpression\bin\Debug\RegularExpression.exe
+F:\ITC_Projects_2021\ConsoleApp1\RegularExpression\bin\Debug\RegularExpression.pdb
+F:\ITC_Projects_2021\ConsoleApp1\RegularExpression\obj\Debug\RegularExpression.csprojAssemblyReference.cache
+F:\ITC_Projects_2021\ConsoleApp1\RegularExpression\obj\Debug\RegularExpression.csproj.CoreCompileInputs.cache
+F:\ITC_Projects_2021\ConsoleApp1\RegularExpression\obj\Debug\RegularExpression.exe
+F:\ITC_Projects_2021\ConsoleApp1\RegularExpression\obj\Debug\RegularExpression.pdb

@@ -1,0 +1,5 @@
+100,CPU,22000
+101,Mouse,220
+102,Laptop,44000
+103,Monitor,8250
+104,Graphics-card,7194

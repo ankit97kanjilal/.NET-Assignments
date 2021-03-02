@@ -1,0 +1,9 @@
+F:\ITC_Projects_2021\ConsoleApp1\Day6_AllTopics\bin\Debug\Day6_AllTopics.exe.config
+F:\ITC_Projects_2021\ConsoleApp1\Day6_AllTopics\bin\Debug\Day6_AllTopics.exe
+F:\ITC_Projects_2021\ConsoleApp1\Day6_AllTopics\bin\Debug\Day6_AllTopics.pdb
+F:\ITC_Projects_2021\ConsoleApp1\Day6_AllTopics\obj\Debug\Day6_AllTopics.csprojAssemblyReference.cache
+F:\ITC_Projects_2021\ConsoleApp1\Day6_AllTopics\obj\Debug\Day6_AllTopics.csproj.CoreCompileInputs.cache
+F:\ITC_Projects_2021\ConsoleApp1\Day6_AllTopics\obj\Debug\Day6_AllTopics.exe
+F:\ITC_Projects_2021\ConsoleApp1\Day6_AllTopics\obj\Debug\Day6_AllTopics.pdb
+F:\ITC_Projects_2021\ConsoleApp1\Day6_AllTopics\bin\Debug\GlobalAssemblyLib.dll
+F:\ITC_Projects_2021\ConsoleApp1\Day6_AllTopics\obj\Debug\Day6_AllTopics.csproj.CopyComplete

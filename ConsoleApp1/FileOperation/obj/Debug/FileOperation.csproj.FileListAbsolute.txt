@@ -1,0 +1,6 @@
+F:\ITC_Projects_2021\ConsoleApp1\FileOperation\bin\Debug\FileOperation.exe.config
+F:\ITC_Projects_2021\ConsoleApp1\FileOperation\bin\Debug\FileOperation.exe
+F:\ITC_Projects_2021\ConsoleApp1\FileOperation\bin\Debug\FileOperation.pdb
+F:\ITC_Projects_2021\ConsoleApp1\FileOperation\obj\Debug\FileOperation.csproj.CoreCompileInputs.cache
+F:\ITC_Projects_2021\ConsoleApp1\FileOperation\obj\Debug\FileOperation.exe
+F:\ITC_Projects_2021\ConsoleApp1\FileOperation\obj\Debug\FileOperation.pdb

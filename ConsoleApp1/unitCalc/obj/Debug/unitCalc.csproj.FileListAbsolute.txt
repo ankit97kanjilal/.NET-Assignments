@@ -1,0 +1,6 @@
+F:\ITC_Projects_2021\ConsoleApp1\unitCalc\bin\Debug\unitCalc.exe.config
+F:\ITC_Projects_2021\ConsoleApp1\unitCalc\bin\Debug\unitCalc.exe
+F:\ITC_Projects_2021\ConsoleApp1\unitCalc\bin\Debug\unitCalc.pdb
+F:\ITC_Projects_2021\ConsoleApp1\unitCalc\obj\Debug\unitCalc.csproj.CoreCompileInputs.cache
+F:\ITC_Projects_2021\ConsoleApp1\unitCalc\obj\Debug\unitCalc.exe
+F:\ITC_Projects_2021\ConsoleApp1\unitCalc\obj\Debug\unitCalc.pdb
