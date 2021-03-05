@@ -4,3 +4,9 @@ F:\ITC_Projects_2021\ConsoleApp1\PracticeCollection1\bin\Debug\PracticeCollectio
 F:\ITC_Projects_2021\ConsoleApp1\PracticeCollection1\obj\Debug\PracticeCollection1.csproj.CoreCompileInputs.cache
 F:\ITC_Projects_2021\ConsoleApp1\PracticeCollection1\obj\Debug\PracticeCollection1.exe
 F:\ITC_Projects_2021\ConsoleApp1\PracticeCollection1\obj\Debug\PracticeCollection1.pdb
+F:\ITC_Projects_(C#)\ConsoleApp1\PracticeCollection1\bin\Debug\PracticeCollection1.exe.config
+F:\ITC_Projects_(C#)\ConsoleApp1\PracticeCollection1\bin\Debug\PracticeCollection1.exe
+F:\ITC_Projects_(C#)\ConsoleApp1\PracticeCollection1\bin\Debug\PracticeCollection1.pdb
+F:\ITC_Projects_(C#)\ConsoleApp1\PracticeCollection1\obj\Debug\PracticeCollection1.csproj.CoreCompileInputs.cache
+F:\ITC_Projects_(C#)\ConsoleApp1\PracticeCollection1\obj\Debug\PracticeCollection1.exe
+F:\ITC_Projects_(C#)\ConsoleApp1\PracticeCollection1\obj\Debug\PracticeCollection1.pdb

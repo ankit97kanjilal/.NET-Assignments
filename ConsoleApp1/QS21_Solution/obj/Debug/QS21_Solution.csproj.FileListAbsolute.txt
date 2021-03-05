@@ -5,3 +5,10 @@ F:\ITC_Projects_2021\ConsoleApp1\QS21_Solution\obj\Debug\QS21_Solution.csprojAss
 F:\ITC_Projects_2021\ConsoleApp1\QS21_Solution\obj\Debug\QS21_Solution.csproj.CoreCompileInputs.cache
 F:\ITC_Projects_2021\ConsoleApp1\QS21_Solution\obj\Debug\QS21_Solution.exe
 F:\ITC_Projects_2021\ConsoleApp1\QS21_Solution\obj\Debug\QS21_Solution.pdb
+F:\ITC_Projects_(C#)\ConsoleApp1\QS21_Solution\bin\Debug\QS21_Solution.exe.config
+F:\ITC_Projects_(C#)\ConsoleApp1\QS21_Solution\bin\Debug\QS21_Solution.exe
+F:\ITC_Projects_(C#)\ConsoleApp1\QS21_Solution\bin\Debug\QS21_Solution.pdb
+F:\ITC_Projects_(C#)\ConsoleApp1\QS21_Solution\obj\Debug\QS21_Solution.csprojAssemblyReference.cache
+F:\ITC_Projects_(C#)\ConsoleApp1\QS21_Solution\obj\Debug\QS21_Solution.csproj.CoreCompileInputs.cache
+F:\ITC_Projects_(C#)\ConsoleApp1\QS21_Solution\obj\Debug\QS21_Solution.exe
+F:\ITC_Projects_(C#)\ConsoleApp1\QS21_Solution\obj\Debug\QS21_Solution.pdb
