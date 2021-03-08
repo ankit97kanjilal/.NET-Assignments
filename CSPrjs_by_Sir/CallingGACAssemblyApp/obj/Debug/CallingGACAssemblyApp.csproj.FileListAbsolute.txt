@@ -1,0 +1,10 @@
+F:\ITC_Prjs_2021\CSPrjs\CallingGACAssemblyApp\bin\Debug\CallingGACAssemblyApp.exe.config
+F:\ITC_Prjs_2021\CSPrjs\CallingGACAssemblyApp\bin\Debug\CallingGACAssemblyApp.exe
+F:\ITC_Prjs_2021\CSPrjs\CallingGACAssemblyApp\bin\Debug\CallingGACAssemblyApp.pdb
+F:\ITC_Prjs_2021\CSPrjs\CallingGACAssemblyApp\bin\Debug\GlobalAssemblyLib.dll
+F:\ITC_Prjs_2021\CSPrjs\CallingGACAssemblyApp\bin\Debug\GlobalAssemblyLib.pdb
+F:\ITC_Prjs_2021\CSPrjs\CallingGACAssemblyApp\obj\Debug\CallingGACAssemblyApp.csprojAssemblyReference.cache
+F:\ITC_Prjs_2021\CSPrjs\CallingGACAssemblyApp\obj\Debug\CallingGACAssemblyApp.csproj.CoreCompileInputs.cache
+F:\ITC_Prjs_2021\CSPrjs\CallingGACAssemblyApp\obj\Debug\CallingGACAssemblyApp.csproj.CopyComplete
+F:\ITC_Prjs_2021\CSPrjs\CallingGACAssemblyApp\obj\Debug\CallingGACAssemblyApp.exe
+F:\ITC_Prjs_2021\CSPrjs\CallingGACAssemblyApp\obj\Debug\CallingGACAssemblyApp.pdb

@@ -1,0 +1,10 @@
+F:\ITC_Prjs_2021\CSPrjs\Day8ThreadCycle\bin\Debug\Day8ThreadCycle.exe.config
+F:\ITC_Prjs_2021\CSPrjs\Day8ThreadCycle\bin\Debug\Day8ThreadCycle.exe
+F:\ITC_Prjs_2021\CSPrjs\Day8ThreadCycle\bin\Debug\Day8ThreadCycle.pdb
+F:\ITC_Prjs_2021\CSPrjs\Day8ThreadCycle\obj\Debug\Day8ThreadCycle.csprojAssemblyReference.cache
+F:\ITC_Prjs_2021\CSPrjs\Day8ThreadCycle\obj\Debug\Day8ThreadCycle.Form1.resources
+F:\ITC_Prjs_2021\CSPrjs\Day8ThreadCycle\obj\Debug\Day8ThreadCycle.Properties.Resources.resources
+F:\ITC_Prjs_2021\CSPrjs\Day8ThreadCycle\obj\Debug\Day8ThreadCycle.csproj.GenerateResource.cache
+F:\ITC_Prjs_2021\CSPrjs\Day8ThreadCycle\obj\Debug\Day8ThreadCycle.csproj.CoreCompileInputs.cache
+F:\ITC_Prjs_2021\CSPrjs\Day8ThreadCycle\obj\Debug\Day8ThreadCycle.exe
+F:\ITC_Prjs_2021\CSPrjs\Day8ThreadCycle\obj\Debug\Day8ThreadCycle.pdb

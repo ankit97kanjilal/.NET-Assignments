@@ -1,0 +1,6 @@
+F:\ITC_Prjs_2021\CSPrjs\CalculatorLib\bin\Debug\CalculatorLib.dll
+F:\ITC_Prjs_2021\CSPrjs\CalculatorLib\bin\Debug\CalculatorLib.pdb
+F:\ITC_Prjs_2021\CSPrjs\CalculatorLib\obj\Debug\CalculatorLib.csprojAssemblyReference.cache
+F:\ITC_Prjs_2021\CSPrjs\CalculatorLib\obj\Debug\CalculatorLib.csproj.CoreCompileInputs.cache
+F:\ITC_Prjs_2021\CSPrjs\CalculatorLib\obj\Debug\CalculatorLib.dll
+F:\ITC_Prjs_2021\CSPrjs\CalculatorLib\obj\Debug\CalculatorLib.pdb

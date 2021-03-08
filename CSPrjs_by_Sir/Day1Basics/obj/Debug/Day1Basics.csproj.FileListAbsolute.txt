@@ -1,0 +1,6 @@
+F:\ITC_Prjs_2021\CSPrjs\Day1Basics\bin\Debug\Day1Basics.exe.config
+F:\ITC_Prjs_2021\CSPrjs\Day1Basics\bin\Debug\Day1Basics.exe
+F:\ITC_Prjs_2021\CSPrjs\Day1Basics\bin\Debug\Day1Basics.pdb
+F:\ITC_Prjs_2021\CSPrjs\Day1Basics\obj\Debug\Day1Basics.csproj.CoreCompileInputs.cache
+F:\ITC_Prjs_2021\CSPrjs\Day1Basics\obj\Debug\Day1Basics.exe
+F:\ITC_Prjs_2021\CSPrjs\Day1Basics\obj\Debug\Day1Basics.pdb

@@ -1,0 +1,7 @@
+F:\ITC_Prjs_2021\CSPrjs\Day5NMSPDemo\bin\Debug\Day5NMSPDemo.exe.config
+F:\ITC_Prjs_2021\CSPrjs\Day5NMSPDemo\bin\Debug\Day5NMSPDemo.exe
+F:\ITC_Prjs_2021\CSPrjs\Day5NMSPDemo\bin\Debug\Day5NMSPDemo.pdb
+F:\ITC_Prjs_2021\CSPrjs\Day5NMSPDemo\obj\Debug\Day5NMSPDemo.csprojAssemblyReference.cache
+F:\ITC_Prjs_2021\CSPrjs\Day5NMSPDemo\obj\Debug\Day5NMSPDemo.csproj.CoreCompileInputs.cache
+F:\ITC_Prjs_2021\CSPrjs\Day5NMSPDemo\obj\Debug\Day5NMSPDemo.exe
+F:\ITC_Prjs_2021\CSPrjs\Day5NMSPDemo\obj\Debug\Day5NMSPDemo.pdb

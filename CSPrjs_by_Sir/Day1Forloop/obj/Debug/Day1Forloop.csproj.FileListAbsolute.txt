@@ -1,0 +1,6 @@
+F:\ITC_Prjs_2021\CSPrjs\Day1Forloop\bin\Debug\Day1Forloop.exe.config
+F:\ITC_Prjs_2021\CSPrjs\Day1Forloop\bin\Debug\Day1Forloop.exe
+F:\ITC_Prjs_2021\CSPrjs\Day1Forloop\bin\Debug\Day1Forloop.pdb
+F:\ITC_Prjs_2021\CSPrjs\Day1Forloop\obj\Debug\Day1Forloop.csproj.CoreCompileInputs.cache
+F:\ITC_Prjs_2021\CSPrjs\Day1Forloop\obj\Debug\Day1Forloop.exe
+F:\ITC_Prjs_2021\CSPrjs\Day1Forloop\obj\Debug\Day1Forloop.pdb

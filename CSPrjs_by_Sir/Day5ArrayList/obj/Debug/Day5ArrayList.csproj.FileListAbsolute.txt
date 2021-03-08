@@ -1,0 +1,7 @@
+F:\ITC_Prjs_2021\CSPrjs\Day5ArrayList\bin\Debug\Day5ArrayList.exe.config
+F:\ITC_Prjs_2021\CSPrjs\Day5ArrayList\bin\Debug\Day5ArrayList.exe
+F:\ITC_Prjs_2021\CSPrjs\Day5ArrayList\bin\Debug\Day5ArrayList.pdb
+F:\ITC_Prjs_2021\CSPrjs\Day5ArrayList\obj\Debug\Day5ArrayList.csprojAssemblyReference.cache
+F:\ITC_Prjs_2021\CSPrjs\Day5ArrayList\obj\Debug\Day5ArrayList.csproj.CoreCompileInputs.cache
+F:\ITC_Prjs_2021\CSPrjs\Day5ArrayList\obj\Debug\Day5ArrayList.exe
+F:\ITC_Prjs_2021\CSPrjs\Day5ArrayList\obj\Debug\Day5ArrayList.pdb

@@ -1,0 +1,6 @@
+F:\ITC_Prjs_2021\CSPrjs\Day4InheritanceDemo2\bin\Debug\Day4InheritanceDemo2.exe.config
+F:\ITC_Prjs_2021\CSPrjs\Day4InheritanceDemo2\bin\Debug\Day4InheritanceDemo2.exe
+F:\ITC_Prjs_2021\CSPrjs\Day4InheritanceDemo2\bin\Debug\Day4InheritanceDemo2.pdb
+F:\ITC_Prjs_2021\CSPrjs\Day4InheritanceDemo2\obj\Debug\Day4InheritanceDemo2.csproj.CoreCompileInputs.cache
+F:\ITC_Prjs_2021\CSPrjs\Day4InheritanceDemo2\obj\Debug\Day4InheritanceDemo2.exe
+F:\ITC_Prjs_2021\CSPrjs\Day4InheritanceDemo2\obj\Debug\Day4InheritanceDemo2.pdb

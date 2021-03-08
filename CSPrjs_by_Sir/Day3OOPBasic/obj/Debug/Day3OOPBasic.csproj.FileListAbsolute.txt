@@ -1,0 +1,7 @@
+F:\ITC_Prjs_2021\CSPrjs\Day3OOPBasic\bin\Debug\Day3OOPBasic.exe.config
+F:\ITC_Prjs_2021\CSPrjs\Day3OOPBasic\bin\Debug\Day3OOPBasic.exe
+F:\ITC_Prjs_2021\CSPrjs\Day3OOPBasic\bin\Debug\Day3OOPBasic.pdb
+F:\ITC_Prjs_2021\CSPrjs\Day3OOPBasic\obj\Debug\Day3OOPBasic.csprojAssemblyReference.cache
+F:\ITC_Prjs_2021\CSPrjs\Day3OOPBasic\obj\Debug\Day3OOPBasic.csproj.CoreCompileInputs.cache
+F:\ITC_Prjs_2021\CSPrjs\Day3OOPBasic\obj\Debug\Day3OOPBasic.exe
+F:\ITC_Prjs_2021\CSPrjs\Day3OOPBasic\obj\Debug\Day3OOPBasic.pdb

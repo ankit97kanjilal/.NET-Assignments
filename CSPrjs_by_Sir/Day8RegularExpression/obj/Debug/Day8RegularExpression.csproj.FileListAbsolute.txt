@@ -1,0 +1,7 @@
+F:\ITC_Prjs_2021\CSPrjs\Day8RegularExpression\bin\Debug\Day8RegularExpression.exe.config
+F:\ITC_Prjs_2021\CSPrjs\Day8RegularExpression\bin\Debug\Day8RegularExpression.exe
+F:\ITC_Prjs_2021\CSPrjs\Day8RegularExpression\bin\Debug\Day8RegularExpression.pdb
+F:\ITC_Prjs_2021\CSPrjs\Day8RegularExpression\obj\Debug\Day8RegularExpression.csprojAssemblyReference.cache
+F:\ITC_Prjs_2021\CSPrjs\Day8RegularExpression\obj\Debug\Day8RegularExpression.csproj.CoreCompileInputs.cache
+F:\ITC_Prjs_2021\CSPrjs\Day8RegularExpression\obj\Debug\Day8RegularExpression.exe
+F:\ITC_Prjs_2021\CSPrjs\Day8RegularExpression\obj\Debug\Day8RegularExpression.pdb

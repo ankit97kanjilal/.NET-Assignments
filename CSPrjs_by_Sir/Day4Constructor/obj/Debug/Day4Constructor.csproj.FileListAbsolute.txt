@@ -1,0 +1,6 @@
+F:\ITC_Prjs_2021\CSPrjs\Day4Constructor\bin\Debug\Day4Constructor.exe.config
+F:\ITC_Prjs_2021\CSPrjs\Day4Constructor\bin\Debug\Day4Constructor.exe
+F:\ITC_Prjs_2021\CSPrjs\Day4Constructor\bin\Debug\Day4Constructor.pdb
+F:\ITC_Prjs_2021\CSPrjs\Day4Constructor\obj\Debug\Day4Constructor.csproj.CoreCompileInputs.cache
+F:\ITC_Prjs_2021\CSPrjs\Day4Constructor\obj\Debug\Day4Constructor.exe
+F:\ITC_Prjs_2021\CSPrjs\Day4Constructor\obj\Debug\Day4Constructor.pdb

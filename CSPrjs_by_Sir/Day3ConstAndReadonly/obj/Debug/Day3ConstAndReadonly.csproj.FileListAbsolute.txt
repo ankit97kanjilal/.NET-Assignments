@@ -1,0 +1,6 @@
+F:\ITC_Prjs_2021\CSPrjs\Day3ConstAndReadonly\bin\Debug\Day3ConstAndReadonly.exe.config
+F:\ITC_Prjs_2021\CSPrjs\Day3ConstAndReadonly\bin\Debug\Day3ConstAndReadonly.exe
+F:\ITC_Prjs_2021\CSPrjs\Day3ConstAndReadonly\bin\Debug\Day3ConstAndReadonly.pdb
+F:\ITC_Prjs_2021\CSPrjs\Day3ConstAndReadonly\obj\Debug\Day3ConstAndReadonly.csproj.CoreCompileInputs.cache
+F:\ITC_Prjs_2021\CSPrjs\Day3ConstAndReadonly\obj\Debug\Day3ConstAndReadonly.exe
+F:\ITC_Prjs_2021\CSPrjs\Day3ConstAndReadonly\obj\Debug\Day3ConstAndReadonly.pdb

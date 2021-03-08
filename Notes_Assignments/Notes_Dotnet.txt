@@ -1,0 +1,1020 @@
+ILDASM.exe :- tool to visualize the logical structure of any .NET assembly or application
+
+-Managed vs Unmanaged code or application
+-CLR :- Common Language Runtime--all the low level services or any runtime requirements of .NET applications
+-MSIL:- Microsoft Intermediate Language
+-JIT:- Just-In-Time compiler :- compiling MSIL code to native code
+-CTS:- Common Type System
+-GAC:- Global Assembly Cache:-  A location for deploying multiple versions of .NET components or assemblies
+
+-Mani-fest
+-Module
+-Metadata
+-Assembly
+
+VS Studio IDE :- Why we need it? Can I write and execute my .NET program without Visual Studio?
+======================================================================================================
+
+Solution(.sln)
+	--project1.csproj
+		---file1.cs
+		---file2.cs
+	--project2.csproj
+		-file1.cs
+		-file2.cs
+	--project3.csproj
+	
+
+======================================C# onstructs=================================================
+
+variables can be categorised as :-
+1) value-types:- stores data directy instead of storing reference of the data location
+int, char, long, double , float, etc as a predefine
+struct, enum are user-defined value-types
+
+2) reference-types:- data is allocated and its reference is stored in the variable
+arrays, string, class, interface , abstract class
+
+Arrays with two categories:
+1) Single-dimension:-
+2) Multi-dimension:-
+	a) Rectangular array: where all rows have same number of columns
+	b) Jagged array:- variable number of columns in each rows
+syntax=>
+
+data-type[] array-name=new data-type[size];
+
+
+
+struct:- user-defined complex data-type which may have sub-types as its members
+
+
+
+Convert.ToXXX():- this class is used to convert from one type to any other type
+xxx.Parse():- this is used from converting a string value to the target type. Throws exception is parsing is unsuccessfull
+xxx.TryParse():- this also used from coverting a string to the target type. does not throw exception if conversion is failed.
+
+
+
+
+How to create a library and share it among mutiple projects:-
+What is class library? Not meant for execution rather it is used be called by other assemblies i.e. for sharing ur classes among appn.
+
+Step1:- 
+a) create a class libray project
+b) define all your classes and data-types 
+c) define them as a public if u want to share them
+d) build the library project which gives .dll file 
+
+Step2: use or call or consume or refere the library in applications
+a) in the caller appn, add the reference of the class library project dll
+b) in the call appn, use the namespace in which the class is defined
+c) use the class from the namespace in ur appn
+
+============================out and ref=======================
+out and ref:- are used to pass the value-type variables as a by-reference in a method
+
+
+
+when methods are called, we may need to pass some arguments:
+//calling Add method
+int n1=100,n2=200;
+int sum = Add(n1,n2);
+
+
+//calling GetBonus bonus
+Employee emp=new Employee();
+emp.StoreDetails(101,"Ravi",7000);
+double bonus = GetBonus(emp);
+
+
+public int Add(int n1,int n2)   //value types are passed as a by-value i.e. data is passed NOT the reference
+{
+	int result=n1 + n2;
+	return result;
+}
+
+public double GetBonus(Employee emp) //reference types are passed as a by-reference i.e. address or reference of the object is passed
+{
+	double bonus=0;
+	if(emp.Salary>5000)
+	{
+		bonus=0.1*emp.Salary
+	}
+	else
+	{
+		bonus=0.2*emp.Salary;
+	}
+
+	return bonus;
+}
+
+============================const and readonly=================================
+
+
+=====static==============
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+enum:-
+
+
+ER Diagrams:-
+
+
+EMPLOYEE------>attribute(empid,ename,salary,address(city,state,country,pin))
+(class)			(fields)	      (struct)		
+
+
+DEPARTMENT
+
+PRODUCT
+
+CUSTOMER---->attributes(custid,cname,address,phno,ORDER)
+					class
+ORDER====>(orderid,date,....)
+
+
+class Employee
+{
+	int empid;
+	string ename;
+	int salary;
+	Address address;
+}
+
+struct Address
+{
+	public string city;
+	public string state;
+	public string country;
+	public string pin;
+}
+
+
+
+================OOPS Programming============================
+1) Encapsulation : putting all the related things together
+2) Abstraction
+3) Inheritance
+4) Polymorphism
+
+Why OOP?
+Procedural Oriented or Function based:-
+
+
+Procedural based Application:-----in terms for functions
+	-first functions are identified and then data-types related to the functions are depicted and used
+
+OOPs:- -----in terms of Objects
+	-first all the data-types(objects) are identified and then for each object their functionalities are depicted or coded
+	
+
+Task:-    you want to print some information
+1) Procedural oriented:
+		Task()
+			-Setup Printer()----data-types
+			-Collect information for print() ---data-types
+			-Design Print report()
+				-Design Header()---data-types
+				-Design Detail()---data-types
+				-Design Footer()---data-types
+			-Print the information() ----data-types
+
+
+2) Object-Oriented:
+		PRINTER-----> 
+			Setup Printer
+			PrintInfo
+			
+		REPORT
+			---Design Header
+			---Footer
+			---Body
+		INFORMATION
+			---
+
+
+Customer
+	----
+	
+Product
+	---
+	---
+
+
+
+
+
+
+
+C----> Programs
+D---> Music files
+F----> Movies 
+
+
+
+
+
+
+
+SOLID
+
+SRP :- Single-Responsibility-Principle: a method or functions must be responsible for only one task.
+
+
+
+Ques: Create a class with the name Voter with following fields:
+	-votername
+	-age
+	-gender
+
+define a following methods:
+	1) IsAdult() :- it should return true or false based on if voter's age is >=18 or not
+	2) CastYourVote():- should display your vote has been casted successfully
+Note, a person can cast the vote only if he/she is eligible else it should display, 
+			"you are not eligible to cast the vote"
+
+
+Ques: Create a class Bigbazaar having set of payment options as a string array as below:
+	-CreditCard
+	-DebitCard
+	-Cash
+	-PayTM
+	-UPI
+
+Define a method BillPayment which accepts two parameters : totalBillAmount and payment option.
+This method should display the final billamount and the payment options used as per following considerations:
+	if the payment option is CreditCard or DebitCard, there is surcharge of 2% on the bill amount
+	if the payment option is PayTM or UPI, there is a discount of Rs 5/-
+	for cash payment, no such charges or discount
+	for any other payment methods, it should display invalid payment option
+class : is the template of Object
+	
+Objects have:
+	-State : fields 
+	-Behaviors: methods
+	
+Behaviors are responsible for changing the state of the object
+
+Account:
+	state: balance=0
+	behavior:
+		Credit(): changing balance
+		Debit(): changing balance
+
+
+
+Example:- Car object
+	State:-
+		-current speed
+		-current gear
+		-Engine state (Running, Not Running)
+
+	Behavior:- (Acts on the object and changes state)
+		-Slow down
+		-Accelerate
+		-Stop
+		-Switch off engine
+		-Start engine
+
+Example: Dog object
+	State:
+		-Color
+		-Breed
+		-Activity(Barking/Not Barking)
+		-Tail Activity(Wagging/Not wagging)
+	Behavior:
+		-Bark	
+		-Wag Tail
+		-Eat
+
+A Class is a:
+	-Blue print used to create objects
+	-software template that defines the method and the variables to be included in a particular kind of object
+
+State (Member variables):- Variables defined inside a classs for the state of the class.
+	-They are NOT exposed to external world.
+Behavior (Member methods)
+	-Behavior exhibited by the class to external world
+	-functions defined inside the class form the behavior of the class
+
+
+Student:-
+	class Student
+	---Name
+	---Rollno
+	Behaviors:-
+		SetName()
+		GetName()
+		CalResult()
+	
+Message Passing:-
+	-An object by itself may not be very useful
+	-Work happens when an object invokes methods of another object
+	-Interactions between the objects result in 'change of state' achieving something useful
+
+
+
+Driver d=new Driver();
+{
+	Car car=new Car();
+
+
+	car.StartEngine(); ------EngineState will change to "Running"
+	car.Accelerate();--------Gear and Speed will be increased
+	
+	car.SlowDown();------Gear and Speed will be reduced
+	car.Stop();--------------Gear and Speed will be set to 0
+	car.SwitchOfEngine();----EngineState will change to "Not Running"
+}
+
+================================
+enum EngineState
+{
+	NotRunning=0,
+	Running=1
+}
+class Car
+{
+	int speed;
+	int gear;
+	EngineState stateOfEngine;
+	public void SlowDown(int g, int s)
+	{
+		gear=g;
+		speed=s;
+	}
+	public void Accelerate(int g, int s)
+	{
+		gear=g;
+		speed=s;
+	}
+	public void Stop()
+	{
+		gear=0;
+		speed=0;
+	}
+	public void SwitchOfEngine()
+	{
+		stateOfEngine=EngineState.NotRunning;
+	}
+	public void StartEngine()
+	{
+		stateOfEngine=EngineState.Running;
+	}		-
+}
+
+class Driver
+{
+	public void DriveTheCar(Car car)
+	{
+		
+		car.StartEngine(); 
+		car.Accelerate(1,10);
+	
+		car.SlowDown(1,5);
+		car.Stop();
+		car.SwitchOfEngine();
+	}
+}
+
+
+Main()
+//
+	Car car=new Car();
+	Driver driver=new Driver();
+	driver.DriveTheCar(car);
+
+===================Abstraction=====================================================
+Hiding irrelevant data and exposing only relevant data from the object. It is defined as per users perspective.
+
+
+
+Account:-
+	public DoTransaction(string typeTrans, int amt)
+		private Credit()  ------bal+=amt
+		public Debit() -------bal-=amt
+	public Display
+
+
+Main
+//
+Account acc=new Account();
+//acc.Credit();
+
+acc.DoTransaction("D",5000);
+acc.Display();
+
+
+=========================================================
+
+Constructor:-
+These are special member methods which are called automatically when object instance is created.
+usage:
+any statements or tasks which we want to perform in the begining as soon as is created, we can use this ctor.
+
+-ctor methods must have the same name as of class
+-NO return type, not even void also is used
+-.net automatically provides a ctor if we don't define any. This will be the default ctor or blank
+-can be private, public or static 
+
+
+	
+
+Destructor: - are called autmatically when object is destroyed.
+usage:-
+	-clearing resources used by the object like connection, files etc
+-only one destructor is allowed
+-there is modifer or access specifier for destructor
+-Tilde(~) is used for destructor method whose name must be as of classname
+
+
+
+
+
+this : keyword is to refer current instance members from within the class
+
+
+
+
+
+
+Relations between entities (objects):-
+
+Three types of relations:-
+	* IS-A (or Kind-Of) =============>INHERITANCE(reusability and avoids recoding)
+	* Has-A (or Part-of)==============> COMPOSITION(child object cannot exist independently of the parent)
+	
+	Policy=====>has-a=======> Nominee
+
+	* Uses-A======================> AGGREGATION(child object can exist independently of the parent)
+
+
+Car
+
+Dog
+
+Dog is kind of Car or Car is a kind of Dog -----this relation does not exists
+
+TwoWheeler is a Kind of Vehicle : StartEngine, SlowDown, Stop
+FourWheeler is a Kind of Vehicle : StartEngine,SlowDown, Stop
+
+class Vehicle
+{
+	StartEngine, 
+	SlowDown, 
+	Stop
+}
+
+class TwoWheeler : Vehicle
+{
+
+}
+
+class FourWheeler : Vehicle
+{
+
+}
+
+
+Housing Loan ======has-a======> Property Details=====>has-a====>Address
+
+
+struct Address
+{
+
+}
+class PropertyDetails
+{
+	Address address;
+}
+
+classs HousingLoan 
+{
+	PropertyDetails property;
+	public HousingLoan()
+	{
+		this,property=new PropertyDetails();
+	}
+}
+
+
+Main:
+//
+HousingLoan houseloan=new HousingLoan():
+houseloan=null;
+
+
+
+
+
+LoanAdvisor ------------->uses-------------->Loan
+
+
+class Loan
+{
+	double rate;
+	public double GetRate()
+	{
+		return rate;
+	}
+}
+class LoadAdvisor
+{
+	public void Advise(Loan l )
+	{	
+		Console.WriteLine(l.GetRate());
+	}
+}
+
+
+Main:
+Loan l=new Loan();
+
+LoanAdvisor advisor=new LoanAdvisor();
+advisor.Advise(l);
+
+advisor=null;
+
+
+
+Mulitplicity (Cardinality)
+	notation		Meaning
+	1		One only
+	*		Many
+	0..1		Zero or one
+	0..*		Zero or Many
+	1..*		One or Many
+
+
+class PaymentOption
+{
+	//state and behavior
+}
+
+class Bigbazaar
+{
+	PaymentOption[] options=new PaymentOption[5];
+}
+
+	1..*
+
+
+
+class Customer
+{
+	Order[] orders=new Order[3];
+}
+
+class Order
+{
+	Customer customer
+	Product[] product=new Product[3]
+}
+
+class Product
+{
+
+}
+
+
+STUDENT-------COURSE 
+
+
+
+Access specifiers:-
+1) private:- is meant only to be accessed within its own class, not meant for derived class or outside the class
+2) protected:- is meant only to be accessed upto the derived class thru inheritance but not outside the class using dot(.) operator
+3) public:- unlimited access,within class, witing derived class and outside the class too
+4) internal:-becomes private for outside and public for the parent assembly in which it is defined
+5) protected internal:-becomes protected for outside and public for the parent assembly in which it is defined
+
+Note: classes by default it is internal
+fields and methods are by default private
+
+
+=================Polymorphism===============================
+
+It is a feature of OOPs where an type or object changes behavior based on situations(number of parameters, data-parameters)
+e.g.
+
+	Add----->10,20-----> maths sum
+	Add---->"Hello","World"------> string concatenation
+
+
+	Cut()======>haircut,    shotcut
+
+Types of polymorphism:-
+1) static polymorphism:- is done using method overloading
+
+
+2) dynamic polymorphism:- is done using method overriding
+
+
+
+Ques:- Banglore University has given a cut-off passing marks for the students is 70% but it has given flexibility to different affiliated colleges to modify this cut-off marks as per their own rules.
+Based on this assumption, there are two colleges having following cut-off passing marks:
+1) RVCollege -----> 60%
+2) Ramaiah Medical College-----> 50%
+
+Develop a program which takes input of marks of a student and options to apply in respective colleges and display whether the student is eligible for admission in which college.
+
+
+virtual:- it gives optional overwriting of a method at derived level. if u don't overrirde then base class version of the method will be used.
+abstract :- if a methods is declared as an abstract, it is mandatory to override at derived level. So abstract methods do not have definition in base class
+a class having any method as an abstract must be declared as an abstract class.
+we cannot create instance if an abstract class
+we can have abstract as well as non-abstract methods also inside abstract class
+
+ interface:- is a special case of abstract where all the methods are abstract. No NO-ABSTRACT method allowed in an interface.
+all the methods in an interface are by defauly public and abstract.
+
+Note: in .NET multiple inheritance of classes are not allowed. We use interface instead.
+
+
+Properties:-
+fields are to declared as private. Methods are used to communicate these private fields for accessing them or modifying them.
+Properties are the member methods using which we can access the class fields which are private as if they are public i.e. it makes fields access easier.
+Readonly and Readwrite properties:-
+
+Indexers:- This gives the feel of accessing an object as an array
+
+Namespaces:- it is a logical grouping of data-types to avoid name-conflicts while reusing the same name again for defining data-types
+
+
+Collections and Generics:-
+Arrays is strongly-typed data-structure but has size limitation and cannot grow or shrink the size at runtime.
+
+Collections are the data-structure to store set of values like an array but with variable size i.e. can grow or shrink the size at runtime.
+two types of collections:-
+1) Non-generics:- not strongly-types means everything is stored as an "System.object", there is specific type. So while accessing we need to typecast the item before use. This may lead to runtime errors if type-casting is done wrongly.
+
+	System.Collections:-
+			ArrayList
+			Hashtable
+			Stack
+			Queue
+
+
+2) Generics:- strongly-typed as well as variable sized so no need of type-casting while accessing from generics.
+	System.Collections.Generic
+			List<>
+			Stack<>
+			Queue<>
+			Dictionary<>
+			SortedDictionary<>
+Stack:
+====
+Push:- add element to a stack
+Pop:- to remove latest element from the stack as per LIFO
+Peek:- doesn't remove rather it just give info about the latest element
+
+Queue:
+====
+EnQueue:- add element to a stack
+DeQueue:- to remove latest element from the stack as per FIFO
+Peek:- doesn't remove rather it just give info about the first element in the queue 
+
+
+
+Sorting collections:-
+ Sort():- is used for sorting collections.
+For primitive value collections, it is already implemented by the .net. 
+
+1,2,3,5,8,10,11
+
+e1,e2,e3,e4,e5-------> must be comparable
+lstEmp.Sort();
+
+
+
+====================.NET Assemblies=============================
+Two types of assemblies:-
+1) Private assembly:-
+the assembly wherever it is referred gets copyied to the application. Every application using a private assembly will have copy of the assembly within its folder. 
+This is just a file copy.
+
+
+2) Global or Public or Shared Assembly:-
+Assembly is not copied to the applications calling it, rather only reference proxy is provided to the applications. The main file of the assembly is kept separately at a common place called GAC location i.e. Global Assembly Cache.
+This is not a file copy but assembly needs to be deployed to GAC for sharing purpose.
+
+Steps to deploy an assembly to GAC:-
+1) the assembly must be signed with strong key name before deploying
+2) build the assembly after signing
+3) to deploy  :    gacutil -i file.dll	
+4) to undeploy : gacutil -u file
+
+
+To bind ur application to a specific version, specify the information the configuration file:
+<runtime>
+	<assemblyBinding xmlns="urn:schemas-microsoft-com:asm.v1">
+		<dependentAssembly>
+			<assemblyIdentity name="GlobalAssemblyLib" publicKeyToken="fef257daf3616524"/>
+			<bindingRedirect oldVersion="1.0.0.0" newVersion="1.0.0.1"/>			
+		</dependentAssembly>
+		
+	</assemblyBinding>
+</runtime>
+	
+
+=======================Error handling in C#==================
+Types of errors:
+1) Syntax errors: compile-time errors , happens keyword is not properly used.
+2) Logical errors:- runtime errors and occurs when desired output is not there. 
+	debugging otptions:
+	break points are created at different place in the execution path of ur code and then it is analysed with some options and windows
+	-watch window:- to keep watch on state of some variables at runtime 
+	-immediate window:- to check some what-if expressions on the current state of variables
+	-locals window :- to get information of local variables of the currently executing block
+
+	Step-into ---F10
+	Step-Over
+	Step-out
+3) Exceptions:- These are also runtime situation when the program behaves abnormal and sometimes terminates also.
+DivideByZero
+
+CLR 
+-collects the information about the exception situation like where it occurred and 
+-wrap the details in a class meant for that exception 
+-throws the instance of the exception class out of the application
+
+-application should handle the exception by catching the exception object thrown by the CLR 
+-handling is doen using try/catch/finally
+
+User-defined exception:- 
+1) define the exception class
+2) throw the exception when the situation occurs
+3) handling the exception
+
+Best practices of Exception handling:-
+1) Always handle specific exception rather than general exception in the catch block
+2) Try to avoid as much as possible exception situation using logic
+3) Never leave ur catch block empty else u will loose the error stack trace
+4) Always use last catch block as general exception so that if any exception is missed out, it will not terminate and will get handled by this.
+5) Keep check on the Inner exception which may happens while handling the main exception
+6) Avoid sending server-side error details to users if it is irrelevant for them. map the error messages with some custom message
+try
+{
+
+}
+catch(SqlException ex)
+{
+	//log the main exception in log file
+	throw MyAppException("some database error occurred, try later:" + ex.Message);
+	
+}
+7) Exception funnelling : when exception occurs in some inner libraries then propagate that excpetion to upper layer.
+
+
+
+===========================File operations==========================
+U can store data in a file using few formats:-
+1) text format:-    int n=123456787;
+2) binary format
+3) xml format
+
+Serialization:- It is process saving the state of an data or object to some stream
+Deserialization:- It is process of retrieving object state from a stream.
+u need to the formatter to serialize and deserialize data.
+
+custom type must be marked as Serizable to allow saving its state to some stream
+
+Binary serializer : supports private types also and it is prone to firewalls
+Xml serializer: supports only public type and can penetrate firewalls also
+
+
+
+
+
+Ques:
+Create a file "products.txt" in notepad and enter few product records as below with CSV(comma separated value):
+	
+	1001,CPU,20000.00
+	1002,Mouse,200.00
+	1003,Laptop,40000.00
+	1004,Keyboard,1000.00
+
+Write program to read the records from the "products.txt" file and save them in another file "products_updated.txt" 
+and make sure that the price of each product is updated by 10%.
+Also display the updated records of the products on screen.
+
+	1001,CPU,22000.00
+	1002,Mouse,220.00
+	1003,Laptop,44000.00
+	1004,Keyboard,1100.00
+
+
+
+
+
+
+
+sealed : this is used for class and method if u want to restrict inheritance and overwriting. Object can be instantiated by the application but cannot be overridden as sealed classes are NOT meant for inheritance.
+
+partial : it is used for classes and methods. using this we can define the same class at multiple places having different methods.
+ //same namespace
+partial class xyz
+{
+	few methods for DB interactions
+	
+}
+partial class xyz
+{
+	few methods for UI 
+}
+partial class xyz
+{
+	few method for some other common utilities
+}
+
+
+============================Delegates============================
+
+
+country1   --------delegate-------  country2
+obj1			obj2
+
+Delegate is data-type used for dynamic method invocation. 
+Steps to use delegate:
+1) declare the delegate:- signature of the method that can be binding
+2) initialize the delegate:- binding the method to be invoked
+3) invoke the delegate:- invoking the methods that are binded with the delegate
+
+Single-cast and Multi-cast delegate:-
+
+d1----> m1,m2
+d2---->m3,m4,m5
+d3=d1+d2
+d3()
+d3=d3-d2;
+d3();
+
+-more safer than pointers means they have some declaration of the method signature to which they can be binded
+
+Usage of delegate: mostly used in notifications call-backs and events
+
+
+Manager
+	string notificationMsg;
+
+	initiates some task to Employee and asks employee to notify once the task gets over
+
+	Employee.dlg=new MsgDelegate(Notify);
+	Employee.Task()
+
+	public void Notify(string msg)
+	{
+		notificationMsg=msg;
+	}
+
+Employee
+	public dlg---->Notify
+	Task()
+	{
+		---once done, has to notify Manager
+		msg="Task is Done"
+		dlg(msg);
+	}
+
+
+===================Regular expressions===================
+It is used for pattern matching of a string
+
+
+
+String related functions:-
+1) Length:- number of characters in a string
+2) Spilt:- it splits a string by some characters specified into array of strings 
+3) Join:-  it combines an array of strings into a string with some character 
+4) ToChar
+
+StringBuilder :- it is class used for manipulating string for adding, updating, deleting
+
+
+========================
+Multithreading:-  It is programm execution model where we can execute multiple tasks parallel by submitting the tasks as a thread to CPU. 
+CPU time is divided into number of tasks submitted and cpu executes them with some time slice.
+Asynchronus execution.
+System.Threading------> Thread------>delegate----->method1
+					method2
+		ThreadStart:--------> for methods with no parameters
+		ParameterizedThreadStart------> methods which are parameterized	
+
+
+Synchronization of resources among threads;
+
+Thread1 --------> file for writing purpose------lock
+Thread2 --------> file for reading purpose------lock
+
+
+
+T1----Wait(10 sec)-------->fs------->
+Pulse(fs)
+
+
+T2----fs----->free after 7 sec
+
+
+
+
+A=B+C
+
+T1=T2+T3---------10 sec
+		5 sec
+T2.Join();
+T3.Join();
+
+
+T1-------->T2(Background)
+
+
+	SQLExpress
+	MS SQL Server
+
+
+
+
+
+
+
+
+
+
+Day5
+Automatic Properties:-
+Indexers:-
+namespaces:-
+Collections and Generics:-
+
+Day6
+Exception handling:-
+.Net Assemblies:-
+File operations:-
+Serialization/Deserialization:-
+Delegates and Events:-
+
+Day7
+Regular expressions:- I
+String manipulations:-
+
+Multithreading:-  
+
+
+
+
+
+Ques:- Write a program to take input from user for words and meaning(single). 
+Also give option for searching a meaning of a word given by user.
+If the word is not found, it should display 
+"Sorry, no words found with this name".
+If found, it should display the meaning of the word to user.
+
+1. Add words
+2. Search Meaning
+
+choice 1:
+
+Enter word: fun
+Enter meaning: masti
+Word and meaning added
+
+choice 2:
+Enter word: Diplomacy
+Sorry, word not found
+
+Enter word: fun
+Meaning of fun : masti
+
+=========================================
+
+
+Ques: CRUD operations using collections
+Create program that performs all the CRUD oper
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

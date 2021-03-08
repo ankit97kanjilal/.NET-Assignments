@@ -1,0 +1,6 @@
+F:\ITC_Prjs_2021\CSPrjs\Day6CustomExceptionDemo\bin\Debug\Day6CustomExceptionDemo.exe.config
+F:\ITC_Prjs_2021\CSPrjs\Day6CustomExceptionDemo\bin\Debug\Day6CustomExceptionDemo.exe
+F:\ITC_Prjs_2021\CSPrjs\Day6CustomExceptionDemo\bin\Debug\Day6CustomExceptionDemo.pdb
+F:\ITC_Prjs_2021\CSPrjs\Day6CustomExceptionDemo\obj\Debug\Day6CustomExceptionDemo.csproj.CoreCompileInputs.cache
+F:\ITC_Prjs_2021\CSPrjs\Day6CustomExceptionDemo\obj\Debug\Day6CustomExceptionDemo.exe
+F:\ITC_Prjs_2021\CSPrjs\Day6CustomExceptionDemo\obj\Debug\Day6CustomExceptionDemo.pdb

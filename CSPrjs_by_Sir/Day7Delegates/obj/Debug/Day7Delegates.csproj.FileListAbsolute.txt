@@ -1,0 +1,7 @@
+F:\ITC_Prjs_2021\CSPrjs\Day7Delegates\bin\Debug\Day7Delegates.exe.config
+F:\ITC_Prjs_2021\CSPrjs\Day7Delegates\bin\Debug\Day7Delegates.exe
+F:\ITC_Prjs_2021\CSPrjs\Day7Delegates\bin\Debug\Day7Delegates.pdb
+F:\ITC_Prjs_2021\CSPrjs\Day7Delegates\obj\Debug\Day7Delegates.csprojAssemblyReference.cache
+F:\ITC_Prjs_2021\CSPrjs\Day7Delegates\obj\Debug\Day7Delegates.csproj.CoreCompileInputs.cache
+F:\ITC_Prjs_2021\CSPrjs\Day7Delegates\obj\Debug\Day7Delegates.exe
+F:\ITC_Prjs_2021\CSPrjs\Day7Delegates\obj\Debug\Day7Delegates.pdb

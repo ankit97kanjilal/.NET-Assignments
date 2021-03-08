@@ -1,0 +1,7 @@
+F:\ITC_Prjs_2021\CSPrjs\Day8ThreadDemo\bin\Debug\Day8ThreadDemo.exe.config
+F:\ITC_Prjs_2021\CSPrjs\Day8ThreadDemo\bin\Debug\Day8ThreadDemo.exe
+F:\ITC_Prjs_2021\CSPrjs\Day8ThreadDemo\bin\Debug\Day8ThreadDemo.pdb
+F:\ITC_Prjs_2021\CSPrjs\Day8ThreadDemo\obj\Debug\Day8ThreadDemo.csprojAssemblyReference.cache
+F:\ITC_Prjs_2021\CSPrjs\Day8ThreadDemo\obj\Debug\Day8ThreadDemo.csproj.CoreCompileInputs.cache
+F:\ITC_Prjs_2021\CSPrjs\Day8ThreadDemo\obj\Debug\Day8ThreadDemo.exe
+F:\ITC_Prjs_2021\CSPrjs\Day8ThreadDemo\obj\Debug\Day8ThreadDemo.pdb

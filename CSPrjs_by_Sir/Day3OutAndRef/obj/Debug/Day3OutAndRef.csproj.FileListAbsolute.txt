@@ -1,0 +1,6 @@
+F:\ITC_Prjs_2021\CSPrjs\Day3OutAndRef\bin\Debug\Day3OutAndRef.exe.config
+F:\ITC_Prjs_2021\CSPrjs\Day3OutAndRef\bin\Debug\Day3OutAndRef.exe
+F:\ITC_Prjs_2021\CSPrjs\Day3OutAndRef\bin\Debug\Day3OutAndRef.pdb
+F:\ITC_Prjs_2021\CSPrjs\Day3OutAndRef\obj\Debug\Day3OutAndRef.csproj.CoreCompileInputs.cache
+F:\ITC_Prjs_2021\CSPrjs\Day3OutAndRef\obj\Debug\Day3OutAndRef.exe
+F:\ITC_Prjs_2021\CSPrjs\Day3OutAndRef\obj\Debug\Day3OutAndRef.pdb

@@ -1,0 +1,6 @@
+F:\ITC_Prjs_2021\CSPrjs\Day5Indexers\bin\Debug\Day5Indexers.exe.config
+F:\ITC_Prjs_2021\CSPrjs\Day5Indexers\bin\Debug\Day5Indexers.exe
+F:\ITC_Prjs_2021\CSPrjs\Day5Indexers\bin\Debug\Day5Indexers.pdb
+F:\ITC_Prjs_2021\CSPrjs\Day5Indexers\obj\Debug\Day5Indexers.csproj.CoreCompileInputs.cache
+F:\ITC_Prjs_2021\CSPrjs\Day5Indexers\obj\Debug\Day5Indexers.exe
+F:\ITC_Prjs_2021\CSPrjs\Day5Indexers\obj\Debug\Day5Indexers.pdb

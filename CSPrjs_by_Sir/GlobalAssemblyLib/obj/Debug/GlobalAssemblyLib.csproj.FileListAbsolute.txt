@@ -1,0 +1,6 @@
+F:\ITC_Prjs_2021\CSPrjs\GlobalAssemblyLib\bin\Debug\GlobalAssemblyLib.dll
+F:\ITC_Prjs_2021\CSPrjs\GlobalAssemblyLib\bin\Debug\GlobalAssemblyLib.pdb
+F:\ITC_Prjs_2021\CSPrjs\GlobalAssemblyLib\obj\Debug\GlobalAssemblyLib.csprojAssemblyReference.cache
+F:\ITC_Prjs_2021\CSPrjs\GlobalAssemblyLib\obj\Debug\GlobalAssemblyLib.csproj.CoreCompileInputs.cache
+F:\ITC_Prjs_2021\CSPrjs\GlobalAssemblyLib\obj\Debug\GlobalAssemblyLib.dll
+F:\ITC_Prjs_2021\CSPrjs\GlobalAssemblyLib\obj\Debug\GlobalAssemblyLib.pdb

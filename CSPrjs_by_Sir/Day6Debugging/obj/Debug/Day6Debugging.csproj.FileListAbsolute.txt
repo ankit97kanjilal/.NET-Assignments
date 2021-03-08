@@ -1,0 +1,7 @@
+F:\ITC_Prjs_2021\CSPrjs\Day6Debugging\bin\Debug\Day6Debugging.exe.config
+F:\ITC_Prjs_2021\CSPrjs\Day6Debugging\bin\Debug\Day6Debugging.exe
+F:\ITC_Prjs_2021\CSPrjs\Day6Debugging\bin\Debug\Day6Debugging.pdb
+F:\ITC_Prjs_2021\CSPrjs\Day6Debugging\obj\Debug\Day6Debugging.csprojAssemblyReference.cache
+F:\ITC_Prjs_2021\CSPrjs\Day6Debugging\obj\Debug\Day6Debugging.csproj.CoreCompileInputs.cache
+F:\ITC_Prjs_2021\CSPrjs\Day6Debugging\obj\Debug\Day6Debugging.exe
+F:\ITC_Prjs_2021\CSPrjs\Day6Debugging\obj\Debug\Day6Debugging.pdb

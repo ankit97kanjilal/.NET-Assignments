@@ -1,0 +1,7 @@
+F:\ITC_Prjs_2021\CSPrjs\Day8CollectionDemo2\bin\Debug\Day8CollectionDemo2.exe.config
+F:\ITC_Prjs_2021\CSPrjs\Day8CollectionDemo2\bin\Debug\Day8CollectionDemo2.exe
+F:\ITC_Prjs_2021\CSPrjs\Day8CollectionDemo2\bin\Debug\Day8CollectionDemo2.pdb
+F:\ITC_Prjs_2021\CSPrjs\Day8CollectionDemo2\obj\Debug\Day8CollectionDemo2.csprojAssemblyReference.cache
+F:\ITC_Prjs_2021\CSPrjs\Day8CollectionDemo2\obj\Debug\Day8CollectionDemo2.csproj.CoreCompileInputs.cache
+F:\ITC_Prjs_2021\CSPrjs\Day8CollectionDemo2\obj\Debug\Day8CollectionDemo2.exe
+F:\ITC_Prjs_2021\CSPrjs\Day8CollectionDemo2\obj\Debug\Day8CollectionDemo2.pdb

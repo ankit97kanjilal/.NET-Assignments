@@ -1,0 +1,12 @@
+F:\ITC_Prjs_2021\CSPrjs\Day2Struct\bin\Debug\Day2Struct.exe.config
+F:\ITC_Prjs_2021\CSPrjs\Day2Struct\bin\Debug\Day2Struct.exe
+F:\ITC_Prjs_2021\CSPrjs\Day2Struct\bin\Debug\Day2Struct.pdb
+F:\ITC_Prjs_2021\CSPrjs\Day2Struct\obj\Debug\Day2Struct.csproj.CoreCompileInputs.cache
+F:\ITC_Prjs_2021\CSPrjs\Day2Struct\obj\Debug\Day2Struct.exe
+F:\ITC_Prjs_2021\CSPrjs\Day2Struct\obj\Debug\Day2Struct.pdb
+F:\ITC_Prjs_2021\CSPrjs\Day2Struct\obj\Debug\Day2Struct.csprojAssemblyReference.cache
+F:\ITC_Prjs_2021\CSPrjs\Day2Struct\obj\Debug\Day2Struct.csproj.CopyComplete
+F:\ITC_Prjs_2021\CSPrjs\Day2Struct\bin\Debug\CustomerLib.dll
+F:\ITC_Prjs_2021\CSPrjs\Day2Struct\bin\Debug\CustomerLib.pdb
+F:\ITC_Prjs_2021\CSPrjs\Day2Struct\bin\Debug\CalculatorLib.dll
+F:\ITC_Prjs_2021\CSPrjs\Day2Struct\bin\Debug\CalculatorLib.pdb

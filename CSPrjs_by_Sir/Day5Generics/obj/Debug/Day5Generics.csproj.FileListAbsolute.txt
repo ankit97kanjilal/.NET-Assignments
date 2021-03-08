@@ -1,0 +1,7 @@
+F:\ITC_Prjs_2021\CSPrjs\Day5Generics\bin\Debug\Day5Generics.exe.config
+F:\ITC_Prjs_2021\CSPrjs\Day5Generics\bin\Debug\Day5Generics.exe
+F:\ITC_Prjs_2021\CSPrjs\Day5Generics\bin\Debug\Day5Generics.pdb
+F:\ITC_Prjs_2021\CSPrjs\Day5Generics\obj\Debug\Day5Generics.csproj.CoreCompileInputs.cache
+F:\ITC_Prjs_2021\CSPrjs\Day5Generics\obj\Debug\Day5Generics.exe
+F:\ITC_Prjs_2021\CSPrjs\Day5Generics\obj\Debug\Day5Generics.pdb
+F:\ITC_Prjs_2021\CSPrjs\Day5Generics\obj\Debug\Day5Generics.csprojAssemblyReference.cache

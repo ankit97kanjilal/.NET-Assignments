@@ -1,0 +1,7 @@
+F:\ITC_Prjs_2021\CSPrjs\Day5Properties\bin\Debug\Day5Properties.exe.config
+F:\ITC_Prjs_2021\CSPrjs\Day5Properties\bin\Debug\Day5Properties.exe
+F:\ITC_Prjs_2021\CSPrjs\Day5Properties\bin\Debug\Day5Properties.pdb
+F:\ITC_Prjs_2021\CSPrjs\Day5Properties\obj\Debug\Day5Properties.csprojAssemblyReference.cache
+F:\ITC_Prjs_2021\CSPrjs\Day5Properties\obj\Debug\Day5Properties.csproj.CoreCompileInputs.cache
+F:\ITC_Prjs_2021\CSPrjs\Day5Properties\obj\Debug\Day5Properties.exe
+F:\ITC_Prjs_2021\CSPrjs\Day5Properties\obj\Debug\Day5Properties.pdb

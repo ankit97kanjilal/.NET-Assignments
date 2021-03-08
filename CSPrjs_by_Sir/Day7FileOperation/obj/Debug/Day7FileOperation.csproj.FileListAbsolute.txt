@@ -1,0 +1,7 @@
+F:\ITC_Prjs_2021\CSPrjs\Day7FileOperation\bin\Debug\Day7FileOperation.exe.config
+F:\ITC_Prjs_2021\CSPrjs\Day7FileOperation\bin\Debug\Day7FileOperation.exe
+F:\ITC_Prjs_2021\CSPrjs\Day7FileOperation\bin\Debug\Day7FileOperation.pdb
+F:\ITC_Prjs_2021\CSPrjs\Day7FileOperation\obj\Debug\Day7FileOperation.csprojAssemblyReference.cache
+F:\ITC_Prjs_2021\CSPrjs\Day7FileOperation\obj\Debug\Day7FileOperation.csproj.CoreCompileInputs.cache
+F:\ITC_Prjs_2021\CSPrjs\Day7FileOperation\obj\Debug\Day7FileOperation.exe
+F:\ITC_Prjs_2021\CSPrjs\Day7FileOperation\obj\Debug\Day7FileOperation.pdb

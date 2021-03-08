@@ -1,0 +1,6 @@
+F:\ITC_Prjs_2021\CSPrjs\Day2ArraysDemo\bin\Debug\Day2ArraysDemo.exe.config
+F:\ITC_Prjs_2021\CSPrjs\Day2ArraysDemo\bin\Debug\Day2ArraysDemo.exe
+F:\ITC_Prjs_2021\CSPrjs\Day2ArraysDemo\bin\Debug\Day2ArraysDemo.pdb
+F:\ITC_Prjs_2021\CSPrjs\Day2ArraysDemo\obj\Debug\Day2ArraysDemo.csproj.CoreCompileInputs.cache
+F:\ITC_Prjs_2021\CSPrjs\Day2ArraysDemo\obj\Debug\Day2ArraysDemo.exe
+F:\ITC_Prjs_2021\CSPrjs\Day2ArraysDemo\obj\Debug\Day2ArraysDemo.pdb

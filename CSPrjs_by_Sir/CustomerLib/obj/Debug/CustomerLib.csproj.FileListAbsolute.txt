@@ -1,0 +1,6 @@
+F:\ITC_Prjs_2021\CSPrjs\CustomerLib\bin\Debug\CustomerLib.dll
+F:\ITC_Prjs_2021\CSPrjs\CustomerLib\bin\Debug\CustomerLib.pdb
+F:\ITC_Prjs_2021\CSPrjs\CustomerLib\obj\Debug\CustomerLib.csproj.CoreCompileInputs.cache
+F:\ITC_Prjs_2021\CSPrjs\CustomerLib\obj\Debug\CustomerLib.dll
+F:\ITC_Prjs_2021\CSPrjs\CustomerLib\obj\Debug\CustomerLib.pdb
+F:\ITC_Prjs_2021\CSPrjs\CustomerLib\obj\Debug\CustomerLib.csprojAssemblyReference.cache

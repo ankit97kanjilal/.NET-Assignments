@@ -1,0 +1,6 @@
+F:\ITC_Prjs_2021\CSPrjs\Day2Enum\bin\Debug\Day2Enum.exe.config
+F:\ITC_Prjs_2021\CSPrjs\Day2Enum\bin\Debug\Day2Enum.exe
+F:\ITC_Prjs_2021\CSPrjs\Day2Enum\bin\Debug\Day2Enum.pdb
+F:\ITC_Prjs_2021\CSPrjs\Day2Enum\obj\Debug\Day2Enum.csproj.CoreCompileInputs.cache
+F:\ITC_Prjs_2021\CSPrjs\Day2Enum\obj\Debug\Day2Enum.exe
+F:\ITC_Prjs_2021\CSPrjs\Day2Enum\obj\Debug\Day2Enum.pdb

@@ -1,0 +1,7 @@
+F:\ITC_Prjs_2021\CSPrjs\Day7CallbackDelegateDemo\bin\Debug\Day7CallbackDelegateDemo.exe.config
+F:\ITC_Prjs_2021\CSPrjs\Day7CallbackDelegateDemo\bin\Debug\Day7CallbackDelegateDemo.exe
+F:\ITC_Prjs_2021\CSPrjs\Day7CallbackDelegateDemo\bin\Debug\Day7CallbackDelegateDemo.pdb
+F:\ITC_Prjs_2021\CSPrjs\Day7CallbackDelegateDemo\obj\Debug\Day7CallbackDelegateDemo.csprojAssemblyReference.cache
+F:\ITC_Prjs_2021\CSPrjs\Day7CallbackDelegateDemo\obj\Debug\Day7CallbackDelegateDemo.csproj.CoreCompileInputs.cache
+F:\ITC_Prjs_2021\CSPrjs\Day7CallbackDelegateDemo\obj\Debug\Day7CallbackDelegateDemo.exe
+F:\ITC_Prjs_2021\CSPrjs\Day7CallbackDelegateDemo\obj\Debug\Day7CallbackDelegateDemo.pdb

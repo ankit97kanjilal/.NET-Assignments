@@ -1,0 +1,6 @@
+F:\ITC_Prjs_2021\CSPrjs\Day4Abstract\bin\Debug\Day4Abstract.exe.config
+F:\ITC_Prjs_2021\CSPrjs\Day4Abstract\bin\Debug\Day4Abstract.exe
+F:\ITC_Prjs_2021\CSPrjs\Day4Abstract\bin\Debug\Day4Abstract.pdb
+F:\ITC_Prjs_2021\CSPrjs\Day4Abstract\obj\Debug\Day4Abstract.csproj.CoreCompileInputs.cache
+F:\ITC_Prjs_2021\CSPrjs\Day4Abstract\obj\Debug\Day4Abstract.exe
+F:\ITC_Prjs_2021\CSPrjs\Day4Abstract\obj\Debug\Day4Abstract.pdb
